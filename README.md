@@ -68,5 +68,5 @@ A portfolio website to showcase my work and resume.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> "Code is like a joke. If you have to explain it, it’s not good.” – Cory House
 
