@@ -9,8 +9,8 @@
 - 🌱 Currently learning: **React.js**, **Express.js**, **MongoDB**, and **Data Structures**
 - 🛠️ Exploring: Open Source, REST APIs, and Java-based backend systems
 - 💬 Ask me about **Java**, **MySQL**, **HTML/CSS**, **JavaScript**, and **C Programming**
-- 📫 Reach me at: **amol4055@gmail.com**
-
+- 📫 Reach me at: **amolb4055@gmail.com**
+-    second mail is : **bamol4055@gmail.com**
 ---
 
 ### 🛠️ Tech Stack
